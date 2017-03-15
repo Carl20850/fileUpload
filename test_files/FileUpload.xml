@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Filefield>
+    <filename>financial document1</filename>
+    <balance>21</balance>
+    <income>22</income>
+    <risklevel>100</risklevel>
+</Filefield>
+
